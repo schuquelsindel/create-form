@@ -1,0 +1,32 @@
+body {background-image: url("coreaninha.jpeg");}
+#area
+{
+  margin-left: auto;
+  margin-right: auto;
+  top:29%;
+  width:320px;
+  height:270px;
+}
+
+fieldset
+{
+  width:300px;
+  height:250px;
+  background-color:#ffb6c1;
+}
+
+
+
+legend
+{
+  font-weight: 700;
+  font-family: "Arial";
+  color: white;
+}
+#formulario label
+{
+  position:absolute;
+  left:20px;
+  margin-right:6px;
+}
+
